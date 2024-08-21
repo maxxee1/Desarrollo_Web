@@ -1,5 +1,5 @@
-## Primer Proyecto de Desarrollo Web (EC2 de AWS) ##
-
+## Primer Proyecto de Desarrollo Web ##
+### Desplegado en un servicio EC2 de AWS: ###
 
 - IP del Servidor: [123.123.123](123.123.123.123)
 
